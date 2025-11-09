@@ -29,3 +29,4 @@ No external dependencies are required; you can run it with `node src/index.js`.
    ```
 3. Start the labs from **Lab 1** in the chat instructions.
 4. practicing staging
+5. fake changes
