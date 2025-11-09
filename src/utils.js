@@ -10,3 +10,8 @@ export function sum(a, b) {
 export function multiply(a , b){
   return a*b;
 }
+
+export function greet(){
+  console.log("hello from utils");
+  return;
+}
