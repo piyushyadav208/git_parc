@@ -28,3 +28,4 @@ No external dependencies are required; you can run it with `node src/index.js`.
    git commit -m "chore: initial commit"
    ```
 3. Start the labs from **Lab 1** in the chat instructions.
+4. practicing staging
